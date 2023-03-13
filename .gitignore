@@ -1,8 +1,3 @@
 *.class
 *.log
-/sbt-multimodule/utils/target/*
-/sbt-multimodule/target/*
-/sbt-multimodule/project/target/*
-/sbt-multimodule/core/target/streams/*
-sbt-multimodule/.idea/*
-sbt-multimodule/.bsp/*
+
